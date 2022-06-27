@@ -36,13 +36,6 @@ splvm operating system meetup 2022
 | 01/07/2023 5:00pm <br /> 01/08/2023 9:00am |  |  |  | Readings:[RCU paper (2013)](https://pdos.csail.mit.edu/6.S081/2021/readings/rcu-decade-later.pdf), Lecture: [Lec 23](https://youtu.be/KUwyCGMTeq8) | TBD | TBD |
 | 01/14/2023 5:00pm <br /> 01/15/2023 9:00am |  |  |  | Readings:[NASA CALIPSO paper (2006)](https://pdos.csail.mit.edu/6.S081/2021/readings/nasa-calipso-radiation.pdf) for background | TBD | TBD |
 
-
-## Recordings
-WIP
-
-## Slides
-WIP
-
 ## Misc
 WIP
 

@@ -38,6 +38,8 @@
 | 01/14/2023 5:00pm <br /> 01/15/2023 9:00am |  |  |  | Readings:[NASA CALIPSO paper (2006)](https://pdos.csail.mit.edu/6.S081/2021/readings/nasa-calipso-radiation.pdf) for background | TBD | TBD |
 
 ## Misc
+- [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
+- If you wish to join 微信 (WeChat), please add Lin1991Wen
 - [MIT 6.S081 website](https://pdos.csail.mit.edu/6.S081/2021/index.html)
 - [Textbook: xv6](https://pdos.csail.mit.edu/6.S081/2021/xv6/book-riscv-rev2.pdf)
 - The C programming language (second edition) by Kernighan and Ritchie. Prentice Hall, Inc., 1988. ISBN 0-13-110362-8, 1998.

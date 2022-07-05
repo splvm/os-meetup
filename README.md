@@ -38,10 +38,16 @@ systems gossip operating system meetup 2022
 | 01/14/2023 5:00pm <br /> 01/15/2023 9:00am |  |  |  | Readings:[NASA CALIPSO paper (2006)](https://pdos.csail.mit.edu/6.S081/2021/readings/nasa-calipso-radiation.pdf) for background | TBD | TBD |
 
 ## Misc
-WIP
+- [MIT 6.S081 website](https://pdos.csail.mit.edu/6.S081/2021/index.html)
+- [Textbook: xv6](https://pdos.csail.mit.edu/6.S081/2021/xv6/book-riscv-rev2.pdf)
+- The C programming language (second edition) by Kernighan and Ritchie. Prentice Hall, Inc., 1988. ISBN 0-13-110362-8, 1998.
+- [Distributed Systems Meetup](https://splvm.github.io/distsys-meetup/)
+- [Database Systems Meetup](https://splvm.github.io/database-meetup/)
 
 ## Sponsors
-WIP
+> The organizers spent a lot of time and effort to make this meetup possible. If you would like to sponsor this meetup, please contact us at `systemsgossip at gmail dot com`
+
+We would like to thank the following sponsors for their support:
 
 ## FAQ
 WIP

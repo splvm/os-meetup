@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 google_analytics: UA-83991908-1
 github:
   is_project_page: false
+markdown: GFM

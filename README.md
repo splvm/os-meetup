@@ -1,5 +1,5 @@
-# os-meetup
-systems gossip operating system meetup 2022
+# 22’ Operating Systems Meetup
+
 
 ## Annoucement
 - **7/5/2022:** Our first meetup will be presented by Mossaka and Wen Lin on **July 9th, 2022 at 5:00pm PST**! We will introduce our org, the os-meetup and the schedule. The second half of the meetup, we will introduce operating systems, and discuss **lecture 1** and our reading material **chapter 1**! We call for vonlunteer meetup presenter signups! 

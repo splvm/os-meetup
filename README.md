@@ -39,7 +39,8 @@
 
 ## Misc
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
-- If you wish to join 微信 (WeChat), please add Lin1991Wen
+- If you wish to join 微信 (WeChat), please scan 
+- <img style="width: 200px; height: 240px" src="resources/MeetupWechat.png">
 - [MIT 6.S081 website](https://pdos.csail.mit.edu/6.S081/2021/index.html)
 - [Textbook: xv6](https://pdos.csail.mit.edu/6.S081/2021/xv6/book-riscv-rev2.pdf)
 - The C programming language (second edition) by Kernighan and Ritchie. Prentice Hall, Inc., 1988. ISBN 0-13-110362-8, 1998.

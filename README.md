@@ -10,7 +10,7 @@
   - Post-meetup, we talked about a system interface for the cloud is a missing piece in the modern cloud-era. It would greatly benefit those who want to migrate one cloud to another, or to build cloud-native systems that use both cloud and on-premise, or simply don't want to be locked in to a particular cloud provider (AWS, Azure, GCP, etc.).
   - [go-cloud](https://github.com/google/go-cloud) is an interesting work that provides a "stable, idiomatic interfaces for common uses like storage and databases".
   - Change Data Capture (mentioned in DDIA Chap 11) is another great example of building abstraction on heterogeneous database systems to extract logs out and process them as events. 
-  - [David]: mentioned [Debezium](https://debezium.io/), which is an open source distributed platform for change data capture, and it's associated paper [DBlog](https://arxiv.org/pdf/2010.12597v1.pdf
+  - [David]: mentioned [Debezium](https://debezium.io/), which is an open source distributed platform for change data capture, and it's associated paper [DBlog](https://arxiv.org/pdf/2010.12597v1.pdf)
 Next week, Mossaka will present Lecture 2: OS Organization and System Calls. Our lab util is due on Saturday 7/16/2022. We will go through some of the hard questions during the meetup. 
 - **7/5/2022:** Our first meetup will be presented by Mossaka and Wen Lin on **July 9th, 2022 at 5:00pm PST**! We will introduce our org, the os-meetup and the schedule. The second half of the meetup, we will introduce operating systems, and discuss **lecture 1** and our reading material **chapter 1**! We call for vonlunteer meetup presenter signups! 
 - **6/27/2022:** Our schedule is updated! 

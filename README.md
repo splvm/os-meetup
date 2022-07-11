@@ -2,6 +2,7 @@
 
 
 ## Annoucement
+- **7/10/2022** Lab 1 Util Github Classroom has been updated. Please click [here](https://classroom.github.com/a/q4I5zsip) to get a fork. Please remember that **NEVER** share code publically and **NEVER** make the repo public. The first lab is due on 📅 Saturday 7/16/2022. You can directly `git push` to your repo to submit your lab assignment. 
 - **7/10/2022** Thanks for joining our first OS meetup! Here are the links we shared:
   - [Mossaka]: recommends a textbook alternative: [Operating Systems, Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
   - [Mossaka]: this is a good [article](https://gendignoux.com/blog/2020/06/16/rust-5-years-cross-platform.html#desktop-systems) to learn more about how high-level programming languages like Rust makes cross-platform stdlib.
@@ -48,6 +49,8 @@ Next week, Mossaka will present Lecture 2: OS Organization and System Calls. Our
 | 01/14/2023 5:00pm <br /> 01/15/2023 9:00am                                                                                   |               |                                                   |                                                  | Readings:[NASA CALIPSO paper (2006)](https://pdos.csail.mit.edu/6.S081/2021/readings/nasa-calipso-radiation.pdf) for background <br /> 🔴 DUE: [Lab mmap](https://pdos.csail.mit.edu/6.S081/2021/labs/mmap.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | TBD                                                                                   | TBD                                       |
 
 ## Misc
+- Labs
+  - [Lab 1: Util](https://classroom.github.com/a/q4I5zsip)
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan 
 - <img style="width: 200px; height: 240px" src="assets/MeetupWechat.png">

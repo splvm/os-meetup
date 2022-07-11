@@ -57,6 +57,10 @@ Next week, Mossaka will present Lecture 2: OS Organization and System Calls. Our
 - [MIT 6.S081 website](https://pdos.csail.mit.edu/6.S081/2021/index.html)
 - [Textbook: xv6](https://pdos.csail.mit.edu/6.S081/2021/xv6/book-riscv-rev2.pdf)
 - The C programming language (second edition) by Kernighan and Ritchie. Prentice Hall, Inc., 1988. ISBN 0-13-110362-8, 1998.
+- [Operating Systems, Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- Alternative courses
+  - [Berkeley cs162](https://cs162.org/)
+  - [Stanford cs140e](https://cs140e.sergio.bz/). A course about Operating Systems with all labs in Rust 🦀
 - [Distributed Systems Meetup](https://splvm.github.io/distsys-meetup/)
 - [Database Systems Meetup](https://splvm.github.io/database-meetup/)
 
@@ -66,4 +70,6 @@ Next week, Mossaka will present Lecture 2: OS Organization and System Calls. Our
 We would like to thank the following sponsors for their support:
 
 ## FAQ
-WIP
+1. Do you have recordings for each meetup?
+A: Absolutely yes! you can find all our recordings in this [playlist](https://youtube.com/playlist?list=PLckH3KfeRMe5zFGaqpB15StSTR92dp9tS)
+

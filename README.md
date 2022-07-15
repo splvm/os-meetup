@@ -2,6 +2,11 @@
 
 
 ## Annoucement
+- **7/15/2022** Wen Lin and Mossaka will hold an office hour for answering lab 1 questions! Come and talk about Xv6! [Zoom link](https://zoom.us/j/96343577905?pwd=NTF6V1pkSXZDVHdHZTZNS1pxamFLZz09). Below are some questions you can think about before Saturday meetup
+  1. In the book, it says that every process has a user stack and a kernel stack. Where is user stack being defined in `proc.h`?   
+  2. What are `mret` and `sret` instructions in RISC-V? 
+  3. How is microkernel different from unikernel? What is microVM? Can you name some examples of monokernel, microkernel, and unikernel?
+  4. Can you describe, in full detail, how Xv6 boostraps and runs the first user process? 
 - **7/14/2022** 📅 Reminder: Lab 1 Util is due on this **Saturday 7/16/2022 at 5:00 P.M. PST**. We will hold a post-lab happy hour 🎉 on Saturday at the end of our meetup. 
 - **7/10/2022** Lab 1 Util Github Classroom has been updated. Please click [here](https://classroom.github.com/a/q4I5zsip) to get a fork. Please remember that **NEVER** share code publically and **NEVER** make the repo public. The first lab is due on 📅 Saturday 7/16/2022. You can directly `git push` to your repo to submit your lab assignment. 
 - **7/10/2022** Thanks for joining our first OS meetup! Here are the links we shared:

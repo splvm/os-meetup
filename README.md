@@ -2,6 +2,7 @@
 
 
 ## Annoucement
+- **7/17/2022** Lab 2: Syscalls has been updated. please use this [link](https://classroom.github.com/a/Eq_sInZr) to clone your private repo. Please remember that **NEVER** share code publically and **NEVER** make the repo public. The first lab is due on 📅 Saturday 7/30/2022. You can directly `git push` to your repo to submit your lab assignment. 
 - **7/17/2022** Thanks for joining our second OS meetup! Here is a brief summary of the post-meetup discussion:
   - Here are some [examples](http://unikernel.org/projects/) of unikernels.
   - [Redox OS](https://www.redox-os.org/) is a new microkernel based operating system written in Rust

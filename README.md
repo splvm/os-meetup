@@ -3,8 +3,8 @@
 
 ## Annoucement
 - **7/24/2022** 🔴 :loudspeaker: Code Sharing Agreement
-  1. In order to help understanding the labs, we will cover labs in meetup lectures. We will share different answers from Github Classroom. 
-  2. If you are using Github Classroom for your labs, we will treat it as your granted us the permission to share your solution during meetup. Please let us know by email if you have any question on this.
+  1. In order to help meetup attendees understand the labs, we will cover labs in meetup lectures. We will also share different answers from Github Classroom. 
+  2. If you are using Github Classroom for your labs, which means your granted us the permission to share your lab solution during meetup. Please let us know by email if you have any question on this.
   3. We also encourage meetup attendees to share their solutions during the meetup. 
 - **7/22/2022** ❓Below are some questions you can think about before the Saturday meetup
   1. Can you name some pros and cons for the 3-layer page table design? How does Translation Look-aside Buffer mitigate some of the issues that 3-layer page table brings?

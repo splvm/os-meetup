@@ -2,6 +2,7 @@
 
 
 ## Annoucement
+- **7/30/2022** 📅 Reminder: Lab 2 Syscalls is due on this Saturday 7/30/2022 at 5:00 P.M. PST. We had canceled today's meetup. Mossaka will hold an 1-hour office hour to answer questions related to lab 2 syscalls. 
 - **7/24/2022** 🔴 :loudspeaker: Code Sharing Agreement
   1. In order to help meetup attendees understand the labs, we will cover labs in meetup lectures. We will also share different answers from Github Classroom. 
   2. If you are using Github Classroom for your labs, which means your granted us the permission to share your lab solution during meetup. Please let us know by email if you have any question on this.

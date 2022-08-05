@@ -5,7 +5,7 @@
 - **8/04/2022** 🔴 :loudspeaker: Guest Talk
   1. We are more than glad to share that Dr. Lixiang Ao will be speaking at os-meetup on 8/06/2022 :calendar:. <br />
      :technologist: Dr. Lixiang Ao is a software engineer at Databricks. Before joining Databricks, Lixiang obtained PhD from University of California, San Diego. His research interests are cloud computing, and distributed systems with an emphasis on serverless infrastructure and video processing.
-  2. The guest talk is about FaaSnap: FaaS Made Fast Using Snapshot-based VMs. Please check our calendar for reading materials. Please join us for the guest talk.
+  2. The guest talk is about FaaSnap: FaaS Made Fast Using Snapshot-based VMs. Please check our calendar for reading materials and join us on 8/06/2022 for the guest talk.
 - **7/30/2022** 📅 Reminder: Lab 2 Syscalls is due on this Saturday 7/30/2022 at 5:00 P.M. PST. We had canceled today's meetup. Mossaka will hold an 1-hour office hour to answer questions related to lab 2 syscalls. 
 - **7/24/2022** 🔴 :loudspeaker: Code Sharing Agreement
   1. In order to help meetup attendees understand the labs, we will cover labs in meetup lectures. We will also share different answers from Github Classroom. 

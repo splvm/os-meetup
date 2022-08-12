@@ -2,19 +2,19 @@
 
 
 ## Annoucement
-- **8/11/2022** :loudspeaker: Guest Demo
-  1. We are more than glad to share that Fei Hu is going to give a demo on GDB in VS Code at os-meetup on 8/13/2022 :calendar:. <br />
+- **8/11/2022** 📢 Guest Demo
+  1. We are more than glad to share that **Fei Hu** is going to give a **demo on GDB in VS Code** at os-meetup on 8/13/2022 . <br />
 - **8/11/2022** ❓Below are some questions you can think about before the Saturday meetup
   1. What are the contents in `trampline` page and `trapframe` page?
   2. How does CPU set the current mode to supervisor mode?
   3. Which part enables the `SIE` bit in register `sstatus` after `SIE` got disabled by CPU?
   4. How does xv6 gets string parameters for a system call?
-- **8/04/2022** 🔴 :loudspeaker: Guest Talk
+- **8/04/2022** 📢 Guest Talk
   1. We are more than glad to share that Dr. Lixiang Ao will be speaking at os-meetup on 8/06/2022 :calendar:. <br />
      :technologist: Dr. Lixiang Ao is a software engineer at Databricks. Before joining Databricks, Lixiang obtained PhD from University of California, San Diego. His research interests are cloud computing, and distributed systems with an emphasis on serverless infrastructure and video processing.
   2. The guest talk is about FaaSnap: FaaS Made Fast Using Snapshot-based VMs. Please check our calendar for reading materials and join us on 8/06/2022 for the guest talk.
 - **7/30/2022** 📅 Reminder: Lab 2 Syscalls is due on this Saturday 7/30/2022 at 5:00 P.M. PST. We had canceled today's meetup. Mossaka will hold an 1-hour office hour to answer questions related to lab 2 syscalls. 
-- **7/24/2022** 🔴 :loudspeaker: Code Sharing Agreement
+- **7/24/2022** 📢 Code Sharing Agreement
   1. In order to help meetup attendees understand the labs, we will cover labs in meetup lectures. We will also share different answers from Github Classroom. 
   2. If you are using Github Classroom for your labs, which means your granted us the permission to share your lab solution during meetup. Please let us know by email if you have any question on this.
   3. We also encourage meetup attendees to share their solutions during the meetup. 

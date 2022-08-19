@@ -2,6 +2,10 @@
 
 
 ## Annoucement
+- **8/19/2022** 📢 Guest Demo
+  1. We are delighted to announce that **Michael Qiu** is going to giave a **demo on setting up GDB for xv6 on Mac and WSL** at os-meetup on 8/20/2022 . <br />
+- **8/19/2022** 📢 Schedule Update
+  1. There will be no meetup on **8/27/2022** due to schedule conflicts. We are sincerely sorry and will try our best to avoid conflicts in the future. <br />
 - **8/11/2022** 📢 Guest Demo
   1. We are more than glad to share that **Fei Hu** is going to give a **demo on GDB in VS Code** at os-meetup on 8/13/2022 . <br />
 - **8/11/2022** ❓Below are some questions you can think about before the Saturday meetup

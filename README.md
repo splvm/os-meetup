@@ -2,6 +2,7 @@
 
 
 ## Annoucement
+- **8/26/2022** Lab 4: Traps has been updated. please use this [link](https://classroom.github.com/a/mDY-hoQC) to clone your private repo. Please remember that NEVER share code publically and NEVER make the repo public. The first lab is due on 📅 Saturday 9/17/2022. You can directly git push to your repo to submit your lab assignment.
 - **8/20/2022** 📢 We have extended the deadline for Lab 3 pgtbl to **Aug 27th**. As usual, we will release the next lab, lab 4 Traps, by EOD today, which is now due at Sep 17th. 
 - **8/19/2022** 📢 Guest Demo
   1. We are delighted to announce that **Michael Qiu** is going to giave a **demo on setting up GDB for xv6 on Mac and WSL** at os-meetup on 8/20/2022 . <br />
@@ -111,6 +112,7 @@ Next week, Mossaka will present Lecture 2: OS Organization and System Calls. Our
   - [Lab 1: Util](https://classroom.github.com/a/q4I5zsip)
   - [Lab 2: Syscalls](https://classroom.github.com/a/Eq_sInZr)
   - [Lab 3: Pgtbl](https://classroom.github.com/a/pH2axdqw)
+  - [Lab 4: Traps](https://classroom.github.com/a/mDY-hoQC)
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan 
 - <img style="width: 200px; height: 240px" src="assets/WeChat-08-29.png">

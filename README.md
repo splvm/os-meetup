@@ -2,7 +2,7 @@
 
 
 ## Annoucement
-- **9/09/2022** 📢 We are excited to announce that **Hongwang Li** is going to cover lecture interrupt at os-meetup on 9/10/2022 . <br />
+- **9/09/2022** 📢 We are excited to announce that **Hongwang Li** is going to cover lecture 9: interrupt at os-meetup on 9/10/2022 . <br />
 - **8/26/2022** Lab 4: Traps has been updated. please use this [link](https://classroom.github.com/a/mDY-hoQC) to clone your private repo. Please remember that NEVER share code publically and NEVER make the repo public. The first lab is due on 📅 Saturday 9/17/2022. You can directly git push to your repo to submit your lab assignment.
 - **8/20/2022** 📢 We have extended the deadline for Lab 3 pgtbl to **Aug 27th**. As usual, we will release the next lab, lab 4 Traps, by EOD today, which is now due at Sep 17th. 
 - **8/19/2022** 📢 Guest Demo

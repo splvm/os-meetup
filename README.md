@@ -114,6 +114,7 @@ Next week, Mossaka will present Lecture 2: OS Organization and System Calls. Our
   - [Lab 2: Syscalls](https://classroom.github.com/a/Eq_sInZr)
   - [Lab 3: Pgtbl](https://classroom.github.com/a/pH2axdqw)
   - [Lab 4: Traps](https://classroom.github.com/a/mDY-hoQC)
+  - [Lab 5: Cow](https://classroom.github.com/a/9HLm6AGC)
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan 
 - <img style="width: 200px; height: 240px" src="assets/WeChat-09-23.png">

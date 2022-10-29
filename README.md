@@ -124,7 +124,7 @@ Next week, Mossaka will present Lecture 2: OS Organization and System Calls. Our
   - [Lab 6: Threads](https://classroom.github.com/a/rBoU4T_i)
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan 
-- <img style="width: 200px; height: 240px" src="assets/WeChat-10-14.png">
+- <img style="width: 200px; height: 240px" src="assets/WeChat-11-04.png">
 - [MIT 6.S081 website](https://pdos.csail.mit.edu/6.S081/2021/index.html)
 - [Textbook: xv6](https://pdos.csail.mit.edu/6.S081/2021/xv6/book-riscv-rev2.pdf)
 - The C programming language (second edition) by Kernighan and Ritchie. Prentice Hall, Inc., 1988. ISBN 0-13-110362-8, 1998.

@@ -2,6 +2,7 @@
 
 
 ## Annoucement
+- **10/29/2022** We have finished more than half of the course! Please help us evaluate our performance and collect feedback by filling out this short [survey](https://forms.gle/pPwwUHvaticYjQD36) (about 2 minutes).  
 - **10/08/2022** Hey there, we will delay our discussion on Filesystem (lecture 14) to next week. Have a great weekend!
 - **9/23/2022** Lab 5: Cow has been updated. please use this [link](https://classroom.github.com/a/9HLm6AGC) to clone your private repo. Please remember that **NEVER** share code publically and **NEVER** make the repo public. The first lab is due on 📅 Saturday 10/08/2022. You can directly `git push` to your repo to submit your lab assignment. 
 - **9/09/2022** 📢 We are excited to announce that **Hongwang Li** is going to cover lecture 9: interrupt at os-meetup on 9/10/2022 . <br />

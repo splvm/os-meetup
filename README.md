@@ -1,5 +1,7 @@
 # 22’ Operating Systems Meetup
 
+## Meeting link
+https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 
 ## Annoucement
 - **10/29/2022** We have finished more than half of the course! Please help us evaluate our performance and collect feedback by filling out this short [survey](https://forms.gle/pPwwUHvaticYjQD36) (about 2 minutes).  

@@ -4,7 +4,7 @@
 https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 
 ## Annoucement
-
+- **2/21/2023** We have officially ended our OS meetup 🎉🎉🎉! Thank you, for staying with us, on this incredible adventure! 
 - **02/18/2023** 📢 This will be our last meetup on our adventure to MIT 6.S081! Come and learn more about meltdown, and celebrate with us on finishing the course together!
 - **01/13/2023** 📢 We are back to our MIT 6.S081 course! This week, Mossaka will cover lecture 20: kernels and high-level-languages. Please check our calendar for reading materials and join us on 01/14/2023 for the meetup.
 - **12/05/2022** 📢 We are excited to share that **Michael Qiu** will cover lecture 23: RCU at os-meetup on 12/10/2022. **Please notice that we will cover lecture 23 instead of lecture 20 on 12/20/2022.**
